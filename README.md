@@ -1,2 +1,3 @@
 # foach
-Foach-test
+yarn install
+yarn dev
